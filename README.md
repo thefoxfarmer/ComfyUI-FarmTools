@@ -8,3 +8,6 @@ A handful of nodes I find useful.
 3. Restart the ComfyUI server and reload the UI.
 
 ## Nodes
+- **Load File as String**: It's certainly not the only node of its kind,
+  but when executed it _does_ correctly check whether the file has
+  changed since the last execution, unlike some others.
